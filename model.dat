@@ -1,0 +1,66 @@
+param u := 0.416666666667;
+
+# Types of Shoes, I, and sales price
+table table1 "ODBC" "./WARP2011W.mdb" "Product_Master":
+	I <- [Product_Num], s ~ Sales_Price;
+read table table1;
+
+# Types of material, J, their cost c, and available quantity m
+table table2 "ODBC" "./WARP2011W.mdb" "RM_Master":
+	J <- [RM_Num], c ~ Cost, m ~ S_Quantity;;
+read table table2;
+
+# Types of material, K and operation time
+table table3 "ODBC" "./WARP2011W.mdb" "Machine_Master":
+	K <- [Machine_Num], o ~ OpCost_per_min;
+read table table3;
+
+# different warehouses, L, and their costs and capcities
+table table4 "ODBC" "./WARP2011W.mdb" "Warehouse_Master":
+	L <- [Warehouse_Num], w ~ Op_Cost, p ~ Capacity;
+read table table4;
+
+# read in average demand
+table table5 "ODBC" "./WARP2011W.mdb" "Average_Demand":
+	[Product_Num], d ~ Demand;
+read table table5;
+
+# set all entries of r to 0
+for {i in I} {
+	for  {j in J} {
+		let r[i, j] := 0;
+	}
+}
+# read in non-empty entries of r
+table table6 "ODBC" "./WARP2011W.mdb" "BOM":
+	[Product_Num, RM_Num], r ~ Quantity;
+read table table6;
+
+for {i in I} {
+	for {k in K} {
+		let t[i, k] := 0;
+	}
+}
+
+# read in average operation time of machine j working on product i
+table table7 "ODBC" "./WARP2011W.mdb" "Machine_Assign":
+	[Product_Num, Machine_Num], t ~ Avg_Duration;
+read table table7;
+
+for {i in I} {
+	for {k in K} {
+		let t[i, k] := t[i, k]/60; 
+	}
+}
+
+############# Read data from Product_Demand table here. For example, The following code reads the demand for month 1 of each year.
+#table prodDemand IN "ODBC" "S:\ECFPC\WARP2011W.mdb" "SQL=SELECT * FROM Product_Demand WHERE Month=1": .....[read parameters here]
+
+table table_8 IN "ODBC" "./WARP2011W.mdb" "SQL= SELECT Product_Num,AVG(SumDemand) / 7 AS AvgDemand FROM (SELECT Product_Num,SUM(Demand) AS SumDemand FROM Product_Demand WHERE Month = 2 AND Store_Num BETWEEN 1 AND 10 GROUP BY Product_Num) AS Subquery GROUP BY Product_Num":
+	[Product_Num], try ~ AvgDemand;
+read table table_8;
+	
+
+
+
+

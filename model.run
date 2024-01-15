@@ -1,0 +1,67 @@
+reset;
+
+model model.mod;
+data model.dat;
+
+#for {i in I} {
+#	printf "the sale price of shoe %s is %.2f\n", i, s[i];
+#	printf "the average demand for shoe %s is %d\n", i, d[i];
+#	for {j in J} {
+#		printf "\t%d raw material j is required at a cost of %.2f, %d are available\n", r[i,j], j, c[j], m[j];
+#	}
+#}
+	
+#for {k in K} {
+#	printf "The operation cost per minutes of machine %d is %.2f\n", k, o[k];
+#}
+ 
+#for {i in I} {
+#	for {k in K} {
+#		printf "The operation time of product %s on machine %d is %4f\n", i, k, t[i, k];
+#	}
+#}
+
+#for {l in L} {
+#	printf "The operation cost of warehouse %d is %d\n", l, w[l];
+#}
+
+#for {i in I} {
+#	printf "x_%s has val: %d\n", i, x[i];
+#}
+
+#for {l in L} {
+#	print "warehouse %d has capacity %d\n", l, p[l];
+#}
+
+#for {l in L} {
+#	print "warehouse %d has cost %d\n", l, w[l];
+#}
+
+#option solver gurobi;
+#solve;
+#display z,y,x;
+
+#printf "Constraint rm budget has shadow price %.2f\n", rm_budget.dual;
+
+#for {j in J} {
+#	printf "Constraint rm_%d limit has shadow price %.2f\n", j, rm_limit[j].dual;
+#}
+
+#for {k in K} {
+#	printf "Constraint Machine %d Operation limit has shadow price %.2f\n", k, operation_limit[k].dual;
+#}
+
+#for {i in I} {
+#	printf "Demand limit %s has shadow price %.2f \n", i, demand_limit[i].dual;
+#}
+
+#for {k in K} {
+#	printf "The production time on machine %d is %.2f\n", k, sum{i in I}x[i]*t[i, k];
+#}
+
+for  {i in I} {
+	printf "the demand for %s is %d", i, try[i];
+}
+
+
+

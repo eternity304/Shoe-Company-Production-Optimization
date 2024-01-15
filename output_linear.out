@@ -1,0 +1,1374 @@
+z = 11789700
+
+:       y    y.rc        x          x.rc      :=
+1       0   -10000        .           .
+2       1    -7000        .           .
+3       1    -6500        .           .
+4       1    -9500        .           .
+5       0    -9500        .           .
+6       1    -4000        .           .
+7       1    -3800        .           .
+8       0    -6000        .           .
+SH001   .      .       0          102.08
+SH002   .      .     448.857      203.975
+SH003   .      .       0          162.598
+SH004   .      .       0          167.455
+SH005   .      .      33.1429     164.68
+SH006   .      .       0          215.219
+SH007   .      .       0          161.157
+SH008   .      .       0          178.113
+SH009   .      .      27          241.765
+SH010   .      .       0          171.459
+SH011   .      .     433.429      153.823
+SH012   .      .     289.045      122.5
+SH013   .      .     425.429      218.372
+SH014   .      .       0          120.803
+SH015   .      .       0          246.433
+SH016   .      .       0          107.118
+SH017   .      .       0          236.312
+SH018   .      .     247.219      192.827
+SH019   .      .     200.088      163.706
+SH020   .      .       0          174.178
+SH021   .      .       0          183.946
+SH022   .      .       0          217.452
+SH023   .      .       0          162.192
+SH024   .      .     399.379      218.692
+SH025   .      .     404.286        0
+SH026   .      .       0          196.165
+SH027   .      .     434            0
+SH028   .      .       0          190.747
+SH029   .      .     410.216      247.338
+SH030   .      .       0          146.944
+SH031   .      .     305.622      195.255
+SH032   .      .     490.857      135.8
+SH033   .      .       0          167.024
+SH034   .      .     372.571        0
+SH035   .      .       0          170.134
+SH036   .      .       0          189.047
+SH037   .      .       0          116.92
+SH038   .      .     478.571        0
+SH039   .      .     389.429      149.745
+SH040   .      .     432.857      139.693
+SH041   .      .     338.738      143.814
+SH042   .      .     215.137      219.794
+SH043   .      .       0          170.259
+SH044   .      .     442.286        0
+SH045   .      .     374.306      202.631
+SH046   .      .       0          270.407
+SH047   .      .     410.571        0
+SH048   .      .     292.214      160.358
+SH049   .      .       0          142.847
+SH050   .      .     437.429      177.007
+SH051   .      .       0           94.0484
+SH052   .      .       0          137.666
+SH053   .      .       0          168.919
+SH054   .      .       0          130.425
+SH055   .      .       0          262.14
+SH056   .      .       0          204.285
+SH057   .      .     204.81       158.416
+SH058   .      .     432            0
+SH059   .      .       7.67893    190.626
+SH060   .      .     191.181      198.162
+SH061   .      .     167.912      116.175
+SH062   .      .     458.286        0
+SH063   .      .     446            0
+SH064   .      .      18.2534     131.266
+SH065   .      .     369.039      163.516
+SH066   .      .       0          202.866
+SH067   .      .       0          153.876
+SH068   .      .       0          255.372
+SH069   .      .       0          233.543
+SH070   .      .       0          188.147
+SH071   .      .     338.729      233.561
+SH072   .      .       6.87916    195.737
+SH073   .      .     345.834      129.354
+SH074   .      .       0          155.039
+SH075   .      .       0          228.78
+SH076   .      .      64.9008     238.191
+SH077   .      .     176.86       190.179
+SH078   .      .     407.143        0
+SH079   .      .     195.042      171.983
+SH080   .      .     409.429      227.392
+SH081   .      .     163.884      186.44
+SH082   .      .     288.762      225.123
+SH083   .      .       0          169.376
+SH084   .      .       0          220
+SH085   .      .       0          120.822
+SH086   .      .       0          173.914
+SH087   .      .     430            0
+SH088   .      .     423.429      168.918
+SH089   .      .       0          110.857
+SH090   .      .     474.571        0
+SH091   .      .       0          133.169
+SH092   .      .       0          175.042
+SH093   .      .     284.527      226.976
+SH094   .      .     307.216      220.924
+SH095   .      .     422.286        0
+SH096   .      .     452.571        0
+SH097   .      .       0          155.335
+SH098   .      .       0          213.567
+SH099   .      .       0          166.389
+SH100   .      .       0          196.406
+SH101   .      .       0          215.118
+SH102   .      .       0          227.735
+SH103   .      .       0          143.141
+SH104   .      .       0          213.108
+SH105   .      .     418            0
+SH106   .      .     201.096      178.298
+SH107   .      .       1.4354     222.223
+SH108   .      .       0          239.024
+SH109   .      .       0          135.821
+SH110   .      .     417.143        0
+SH111   .      .       0          182.36
+SH112   .      .       0          120.035
+SH113   .      .     454.286        0
+SH114   .      .       0          216.895
+SH115   .      .       0          125.235
+SH116   .      .     199.755      168.125
+SH117   .      .      20.5311     203.106
+SH118   .      .     293.557      167.343
+SH119   .      .       0          218.789
+SH120   .      .       0          163.788
+SH121   .      .     508.286        0
+SH122   .      .       0          170.579
+SH123   .      .       0          266.585
+SH124   .      .       0          152.667
+SH125   .      .       0          227.415
+SH126   .      .      75.602      176.961
+SH127   .      .     381.295      141.706
+SH128   .      .       0          118.639
+SH129   .      .       0          178.666
+SH130   .      .      93.6652     141.827
+SH131   .      .      54.726      162.211
+SH132   .      .       0          179.448
+SH133   .      .     134.866      175.568
+SH134   .      .     490.286        0
+SH135   .      .       0          135.82
+SH136   .      .       0          145.83
+SH137   .      .       0          145.165
+SH138   .      .       0          185.653
+SH139   .      .       0          202.208
+SH140   .      .       0          231.992
+SH141   .      .       0          140.587
+SH142   .      .     398.857      155.763
+SH143   .      .       0          154.797
+SH144   .      .     448.857      113.777
+SH145   .      .       0          139.091
+SH146   .      .     489.143        0
+SH147   .      .      68.4137     178.832
+SH148   .      .       0          203.966
+SH149   .      .      88.383      169.889
+SH150   .      .     425.429      123.431
+SH151   .      .       0          218.24
+SH152   .      .       0          176.809
+SH153   .      .     129.82       170.639
+SH154   .      .     437.143        0
+SH155   .      .       0          140.805
+SH156   .      .       0          122.843
+SH157   .      .       0          122.539
+SH158   .      .       0          134.739
+SH159   .      .       0          150.456
+SH160   .      .      21          129.053
+SH161   .      .       0          117.113
+SH162   .      .       0           72.7841
+SH163   .      .       0          133.2
+SH164   .      .       0          193.506
+SH165   .      .     460            0
+SH166   .      .       0          171.365
+SH167   .      .       0          109.084
+SH168   .      .     379.926      164.513
+SH169   .      .       0          230.78
+SH170   .      .       0          117.757
+SH171   .      .       0          199.488
+SH172   .      .      82.3521     150.066
+SH173   .      .     308.491      180.864
+SH174   .      .       0          250.276
+SH175   .      .       0          164.383
+SH176   .      .     450.286        0
+SH177   .      .       0          120.817
+SH178   .      .     139.775      129.397
+SH179   .      .     107.645      137.733
+SH180   .      .       0          123.353
+SH181   .      .       0          150.174
+SH182   .      .       0          154.977
+SH183   .      .      10.7182     201.212
+SH184   .      .     105.163      217.709
+SH185   .      .     370.617      207.126
+SH186   .      .      68.0572      97.5931
+SH187   .      .     114.793      261.169
+SH188   .      .     246.232      103.536
+SH189   .      .       0          165.265
+SH190   .      .       0          184.363
+SH191   .      .      80.6177     187.225
+SH192   .      .       0          133.033
+SH193   .      .       0          197.617
+SH194   .      .     303.543      275.47
+SH195   .      .     243.066      184.874
+SH196   .      .       0          248.235
+SH197   .      .     437.429      160.434
+SH198   .      .       0          107.586
+SH199   .      .       0          165.892
+SH200   .      .       0          142.596
+SH201   .      .     476.286        0
+SH202   .      .       0          201.724
+SH203   .      .     500.571        0
+SH204   .      .       0          190.234
+SH205   .      .     144.365      161.725
+SH206   .      .       0          208.082
+SH207   .      .       0          170.332
+SH208   .      .       0          209.838
+SH209   .      .     436.423      188.403
+SH210   .      .       0          178.783
+SH211   .      .       0          130.948
+SH212   .      .       0          169.622
+SH213   .      .     436.857      184.985
+SH214   .      .       0          245.488
+SH215   .      .       0          147.517
+SH216   .      .       0          151.842
+SH217   .      .     205.84       189.853
+SH218   .      .       0          186.763
+SH219   .      .       0          225.83
+SH220   .      .       0          157.087
+SH221   .      .     468.286        0
+SH222   .      .       2.78749    262.201
+SH223   .      .     409.143        0
+SH224   .      .     442.571        0
+SH225   .      .     403.874      253.882
+SH226   .      .     418.857      192.144
+SH227   .      .     256.222      138.481
+SH228   .      .       0          188.214
+SH229   .      .       0          170.868
+SH230   .      .      69.6662     141.593
+SH231   .      .       0          231.019
+SH232   .      .     418.972      160.655
+SH233   .      .     448.571        0
+SH234   .      .     405.143        0
+SH235   .      .     470.857      169.515
+SH236   .      .     496.857      106.133
+SH237   .      .       0          131.918
+SH238   .      .     396.465      307.896
+SH239   .      .     109.914      142.572
+SH240   .      .     107.109      127.645
+SH241   .      .     418.571        0
+SH242   .      .       0          227.974
+SH243   .      .       0          134.127
+SH244   .      .     241.934       94.0445
+SH245   .      .       0          183.558
+SH246   .      .       0          266.239
+SH247   .      .     422            0
+SH248   .      .      78.5367     285.607
+SH249   .      .     405.429       96.2229
+SH250   .      .       0          127.644
+SH251   .      .       0          195.21
+SH252   .      .       0          134.851
+SH253   .      .     381.143        0
+SH254   .      .     479.429      112.733
+SH255   .      .     202.693      110.073
+SH256   .      .     434.286        0
+SH257   .      .       0          188.732
+SH258   .      .       0          171.344
+SH259   .      .       0          261.195
+SH260   .      .       1.93737    220.336
+SH261   .      .     409.143        0
+SH262   .      .     411.143        0
+SH263   .      .       0          137.605
+SH264   .      .       0          149.422
+SH265   .      .     413.143        0
+SH266   .      .       0          134.2
+SH267   .      .       0          214.746
+SH268   .      .       0          121.151
+SH269   .      .     429.429      198.848
+SH270   .      .      76.1212     186.483
+SH271   .      .       0          163.468
+SH272   .      .       0          144.259
+SH273   .      .     267.014      205.815
+SH274   .      .     119.008      193.649
+SH275   .      .       0          205.665
+SH276   .      .     279.884      266.624
+SH277   .      .     422.857      197.696
+SH278   .      .       0          190.881
+SH279   .      .      18.8891     181.592
+SH280   .      .       0          225.153
+SH281   .      .     307.907      231.167
+SH282   .      .     415.143        0
+SH283   .      .       0          139.2
+SH284   .      .     460.889      141.876
+SH285   .      .       0          228.117
+SH286   .      .     436.548      139.178
+SH287   .      .     410.286        0
+SH288   .      .     162.086      228.506
+SH289   .      .     429.829      171.103
+SH290   .      .     129.57       196.367
+SH291   .      .       0          233.396
+SH292   .      .     136.365      208.168
+SH293   .      .       0           89.2981
+SH294   .      .       0          166.956
+SH295   .      .     403.429      148.435
+SH296   .      .       0          121.869
+SH297   .      .       0          133.659
+SH298   .      .     110.829      136.596
+SH299   .      .     408.014      215.629
+SH300   .      .     427.429      144.821
+SH301   .      .       0          141.987
+SH302   .      .       0          132.87
+SH303   .      .       0          161.911
+SH304   .      .       0          142.851
+SH305   .      .       0          146.337
+SH306   .      .       0          149.294
+SH307   .      .      81.2943     192.297
+SH308   .      .     266.427      157.891
+SH309   .      .       0          106.927
+SH310   .      .       0          164.347
+SH311   .      .       0          122.514
+SH312   .      .     476.857      130.825
+SH313   .      .     483.429      186.211
+SH314   .      .     391.143        0
+SH315   .      .       0          197.744
+SH316   .      .     168.419      208.404
+SH317   .      .     316.143      183.728
+SH318   .      .       0          120.137
+SH319   .      .       0          212.83
+SH320   .      .     462.286        0
+SH321   .      .       0          214.056
+SH322   .      .     290.699      200.739
+SH323   .      .       0          220.265
+SH324   .      .       0          158.777
+SH325   .      .     475.143        0
+SH326   .      .       0          179.65
+SH327   .      .       0          167.577
+SH328   .      .     194.248      223.377
+SH329   .      .     400            0
+SH330   .      .       0          212.559
+SH331   .      .       0          108.703
+SH332   .      .       0          197.965
+SH333   .      .       0          200.772
+SH334   .      .     386.571        0
+SH335   .      .       0          161.674
+SH336   .      .       0          160.335
+SH337   .      .       0          141.916
+SH338   .      .     109.157      153.172
+SH339   .      .       0          226.751
+SH340   .      .     439.435      200.756
+SH341   .      .     429.429      190.441
+SH342   .      .     299.33       184.434
+SH343   .      .      30.1097     198.427
+SH344   .      .       0          176.642
+SH345   .      .     317.786      150.827
+SH346   .      .       0          219.165
+SH347   .      .     176.703      242.584
+SH348   .      .     488.857      157.316
+SH349   .      .      40.6795     115.95
+SH350   .      .       0          220.294
+SH351   .      .       0          213.947
+SH352   .      .     396.571        0
+SH353   .      .       0          140.033
+SH354   .      .       0          218.453
+SH355   .      .       0          155.835
+SH356   .      .     186.22       164.68
+SH357   .      .       0          275.043
+SH358   .      .       0          189.268
+SH359   .      .      20.7196     216.896
+SH360   .      .       0          180.527
+SH361   .      .     417.429      174.671
+SH362   .      .     419.429      192.052
+SH363   .      .       0          111.405
+SH364   .      .       0          217.625
+SH365   .      .     259.804      186.186
+SH366   .      .     197.702      192.01
+SH367   .      .     452.286        0
+SH368   .      .       0          208.576
+SH369   .      .     378            0
+SH370   .      .       0          189.76
+SH371   .      .       0          194.511
+SH372   .      .     273.751      193.926
+SH373   .      .     416.571        0
+SH374   .      .       0          235.345
+SH375   .      .       0          179.38
+SH376   .      .      24.0941     172.329
+SH377   .      .     148.671      124.742
+SH378   .      .     422.571        0
+SH379   .      .     254.092      215.173
+SH380   .      .       0          135.484
+SH381   .      .      17.8297     151.57
+SH382   .      .       0          103.151
+SH383   .      .       0          239.502
+SH384   .      .     504.571        0
+SH385   .      .       0          168.921
+SH386   .      .       0          246.994
+SH387   .      .       0          221.117
+SH388   .      .       0.215179   214.04
+SH389   .      .       0          163.065
+SH390   .      .       0          188.795
+SH391   .      .     127.685      142.438
+SH392   .      .       0          119.739
+SH393   .      .       0          216.717
+SH394   .      .       0          108.957
+SH395   .      .     448.376      170.882
+SH396   .      .       0          173.701
+SH397   .      .       0          215.534
+SH398   .      .       0          186.31
+SH399   .      .     442.857      208.028
+SH400   .      .       0          182.435
+SH401   .      .       0          145.41
+SH402   .      .      43.8644     189.136
+SH403   .      .       0          125.386
+SH404   .      .       0          142.553
+SH405   .      .       0          135.468
+SH406   .      .       0          102.37
+SH407   .      .     437.429      164.257
+SH408   .      .       0          225.695
+SH409   .      .       0          169.255
+SH410   .      .     262.168      272.973
+SH411   .      .     399.904      244.947
+SH412   .      .      87.6778     149.616
+SH413   .      .       0          231.38
+SH414   .      .       0          173.934
+SH415   .      .     438.286        0
+SH416   .      .       0          171.708
+SH417   .      .     482            0
+SH418   .      .     343.171      183.923
+SH419   .      .     289.92       157.166
+SH420   .      .      89.7077     151.229
+SH421   .      .     416.571        0
+SH422   .      .       0          192.46
+SH423   .      .     419.017      185.754
+SH424   .      .       0          187.201
+SH425   .      .     458.571        0
+SH426   .      .       0          143.781
+SH427   .      .     477.429      157.765
+SH428   .      .       0          131.477
+SH429   .      .      27.3735     165.71
+SH430   .      .     430            0
+SH431   .      .       0          182.835
+SH432   .      .       0          191.26
+SH433   .      .       0          192.115
+SH434   .      .       0          159.674
+SH435   .      .     245.975      168.712
+SH436   .      .       0          185.862
+SH437   .      .       0          134.699
+SH438   .      .      96.8        176.123
+SH439   .      .       0          199.754
+SH440   .      .       0          232.304
+SH441   .      .       0          174.661
+SH442   .      .       0          184.253
+SH443   .      .       0          125.456
+SH444   .      .     175.467      195.623
+SH445   .      .     462.857      158.478
+SH446   .      .       0          245.692
+SH447   .      .     458.857      123.609
+SH448   .      .       0          146.845
+SH449   .      .     209.982      235.087
+SH450   .      .       0          153.205
+SH451   .      .     455.429      189.89
+SH452   .      .       0          124.137
+SH453   .      .     470.857      181.651
+SH454   .      .       0          184.852
+SH455   .      .       0.515306   132.881
+SH456   .      .     430            0
+SH457   .      .     252.964      185.88
+SH458   .      .     218.811      106.095
+SH459   .      .     265.488      201.475
+SH460   .      .       0          179.531
+SH461   .      .       0          161.671
+SH462   .      .     181.706      205.595
+SH463   .      .       0          235.201
+SH464   .      .     403.218      176.904
+SH465   .      .     270.282      188.812
+SH466   .      .     440.857      152.68
+SH467   .      .     126.223      143.742
+SH468   .      .     141.204      163.076
+SH469   .      .       0          134.962
+SH470   .      .     379.233      200.142
+SH471   .      .     394.489      185.57
+SH472   .      .     292.349      181.405
+SH473   .      .     194.343      143.334
+SH474   .      .     281.762      229.696
+SH475   .      .       0          213.647
+SH476   .      .     416.857      136.402
+SH477   .      .     422.571        0
+SH478   .      .     354.294      170.198
+SH479   .      .     488.286        0
+SH480   .      .       0          138.187
+SH481   .      .       0          141.501
+SH482   .      .     112.234      139.229
+SH483   .      .     434.571        0
+SH484   .      .       0          130.347
+SH485   .      .       0          180.176
+SH486   .      .       0          203.852
+SH487   .      .      83.1042     241.723
+SH488   .      .       0          231.646
+SH489   .      .     441.429      209.255
+SH490   .      .     537.143        0
+SH491   .      .     183.511      156.73
+SH492   .      .      39.3634     111.037
+SH493   .      .       0          109.744
+SH494   .      .      64.9048     145.166
+SH495   .      .     136.333      152.285
+SH496   .      .       0          157.001
+SH497   .      .     450.286        0
+SH498   .      .     239.48       216.779
+SH499   .      .     104.378      188.801
+SH500   .      .     425.429      154.764
+SH501   .      .     420.571        0
+SH502   .      .       0          233.101
+SH503   .      .       0          185.299
+SH504   .      .       0          186.722
+SH505   .      .       0          137.871
+SH506   .      .       0          235.545
+SH507   .      .      98.867      173.264
+SH508   .      .     415.95       175.052
+SH509   .      .       0          152.412
+SH510   .      .       0          181.495
+SH511   .      .     398            0
+SH512   .      .      30.4036     210.854
+SH513   .      .     327.342      152.408
+SH514   .      .     396.857      152.158
+SH515   .      .       0          134.705
+SH516   .      .     425.143        0
+SH517   .      .       0          293.276
+SH518   .      .       0          192.399
+SH519   .      .       0          198.939
+SH520   .      .     123.142      262.9
+SH521   .      .     231.57       213.148
+SH522   .      .      54.1516     160.437
+SH523   .      .     134.922      228.736
+SH524   .      .      96.5308     216.783
+SH525   .      .     152.446      205.511
+SH526   .      .       0          212.211
+SH527   .      .     258.751      232.363
+SH528   .      .       0          200.772
+SH529   .      .       0          211.428
+SH530   .      .       0          172.553
+SH531   .      .       0          132.415
+SH532   .      .     475.429      176.104
+SH533   .      .       0          160.144
+SH534   .      .     406.286        0
+SH535   .      .     440.571        0
+SH536   .      .      31.9008     152.389
+SH537   .      .     280.044      178.392
+SH538   .      .       0          149.505
+SH539   .      .       0          140.684
+SH540   .      .     170.324      142.101
+SH541   .      .       3.88484    213.845
+SH542   .      .       0          296.13
+SH543   .      .     332.093      198.901
+SH544   .      .       0          144.754
+SH545   .      .       0          116.28
+SH546   .      .     275.725      139.656
+SH547   .      .       0          217.421
+SH548   .      .       0          143.5
+SH549   .      .      61.0804     266.71
+SH550   .      .       0          130.665
+SH551   .      .       0          137.828
+SH552   .      .     181.33       276.135
+SH553   .      .       0          152.784
+SH554   .      .       0          167.681
+SH555   .      .       0          151.826
+SH556   .      .     423.143        0
+SH557   .      .     470.286        0
+;
+
+
+Raw material 1 quantity constraint is binding and has shadow price: 0.00
+Raw material 8 quantity constraint is binding and has shadow price: 0.00
+Raw material 12 quantity constraint is binding and has shadow price: 0.00
+Raw material 14 quantity constraint is binding and has shadow price: 0.00
+Raw material 15 quantity constraint is binding and has shadow price: 0.00
+Raw material 24 quantity constraint is binding and has shadow price: 0.00
+Raw material 26 quantity constraint is binding and has shadow price: 0.00
+Raw material 28 quantity constraint is binding and has shadow price: 0.00
+Raw material 31 quantity constraint is binding and has shadow price: 0.00
+Raw material 41 quantity constraint is binding and has shadow price: 0.00
+Raw material 44 quantity constraint is binding and has shadow price: 0.00
+Raw material 49 quantity constraint is binding and has shadow price: 0.00
+Raw material 57 quantity constraint is binding and has shadow price: 0.00
+Raw material 58 quantity constraint is binding and has shadow price: 0.00
+Raw material 60 quantity constraint is binding and has shadow price: 0.00
+Raw material 61 quantity constraint is binding and has shadow price: 0.00
+Raw material 63 quantity constraint is binding and has shadow price: 0.00
+Raw material 64 quantity constraint is binding and has shadow price: 0.00
+Raw material 66 quantity constraint is binding and has shadow price: 0.00
+Raw material 70 quantity constraint is binding and has shadow price: 0.00
+Raw material 71 quantity constraint is binding and has shadow price: 0.00
+Raw material 73 quantity constraint is binding and has shadow price: 0.00
+Raw material 75 quantity constraint is binding and has shadow price: 0.00
+Raw material 76 quantity constraint is binding and has shadow price: 0.00
+Raw material 77 quantity constraint is binding and has shadow price: 0.00
+Raw material 80 quantity constraint is binding and has shadow price: 0.00
+Raw material 81 quantity constraint is binding and has shadow price: 0.00
+Raw material 84 quantity constraint is binding and has shadow price: 0.00
+Raw material 85 quantity constraint is binding and has shadow price: 0.00
+Raw material 88 quantity constraint is binding and has shadow price: 0.00
+Raw material 89 quantity constraint is binding and has shadow price: 0.00
+Raw material 92 quantity constraint is binding and has shadow price: 0.00
+Raw material 93 quantity constraint is binding and has shadow price: 0.00
+Raw material 94 quantity constraint is binding and has shadow price: 0.00
+Raw material 96 quantity constraint is binding and has shadow price: 0.00
+Raw material 100 quantity constraint is binding and has shadow price: 0.00
+Raw material 101 quantity constraint is binding and has shadow price: 0.00
+Raw material 106 quantity constraint is binding and has shadow price: 0.00
+Raw material 108 quantity constraint is binding and has shadow price: 0.00
+Raw material 112 quantity constraint is binding and has shadow price: 0.00
+Raw material 113 quantity constraint is binding and has shadow price: 0.00
+Raw material 116 quantity constraint is binding and has shadow price: 0.00
+Raw material 119 quantity constraint is binding and has shadow price: 0.00
+Raw material 120 quantity constraint is binding and has shadow price: 0.00
+Raw material 121 quantity constraint is binding and has shadow price: 0.00
+Raw material 122 quantity constraint is binding and has shadow price: 0.00
+Raw material 123 quantity constraint is binding and has shadow price: 0.00
+Raw material 125 quantity constraint is binding and has shadow price: 0.00
+Raw material 126 quantity constraint is binding and has shadow price: 0.00
+Raw material 129 quantity constraint is binding and has shadow price: 0.00
+Raw material 132 quantity constraint is binding and has shadow price: 0.00
+Raw material 134 quantity constraint is binding and has shadow price: 0.00
+Raw material 135 quantity constraint is binding and has shadow price: 0.00
+Raw material 137 quantity constraint is binding and has shadow price: 0.00
+Raw material 139 quantity constraint is binding and has shadow price: 0.00
+Raw material 140 quantity constraint is binding and has shadow price: 0.00
+Raw material 142 quantity constraint is binding and has shadow price: 0.00
+Raw material 147 quantity constraint is binding and has shadow price: 0.00
+Raw material 149 quantity constraint is binding and has shadow price: 0.00
+Raw material 150 quantity constraint is binding and has shadow price: 0.00
+Raw material 152 quantity constraint is binding and has shadow price: 0.00
+Raw material 153 quantity constraint is binding and has shadow price: 0.00
+Raw material 155 quantity constraint is binding and has shadow price: 0.00
+Raw material 156 quantity constraint is binding and has shadow price: 0.00
+Raw material 158 quantity constraint is binding and has shadow price: 0.00
+Raw material 159 quantity constraint is binding and has shadow price: 0.00
+Raw material 161 quantity constraint is binding and has shadow price: 0.00
+Raw material 163 quantity constraint is binding and has shadow price: 0.00
+Raw material 164 quantity constraint is binding and has shadow price: 0.00
+
+
+SH025 Demand limit is binding and  has shadow price 155.65 
+SH027 Demand limit is binding and  has shadow price 222.69 
+SH044 Demand limit is binding and  has shadow price 108.13 
+SH058 Demand limit is binding and  has shadow price 180.25 
+SH062 Demand limit is binding and  has shadow price 146.39 
+SH063 Demand limit is binding and  has shadow price 185.16 
+SH087 Demand limit is binding and  has shadow price 166.10 
+SH095 Demand limit is binding and  has shadow price 175.59 
+SH105 Demand limit is binding and  has shadow price 206.36 
+SH113 Demand limit is binding and  has shadow price 225.60 
+SH121 Demand limit is binding and  has shadow price 261.75 
+SH134 Demand limit is binding and  has shadow price 137.57 
+SH165 Demand limit is binding and  has shadow price 153.43 
+SH176 Demand limit is binding and  has shadow price 137.29 
+SH201 Demand limit is binding and  has shadow price 188.16 
+SH221 Demand limit is binding and  has shadow price 189.34 
+SH247 Demand limit is binding and  has shadow price 101.01 
+SH256 Demand limit is binding and  has shadow price 122.97 
+SH287 Demand limit is binding and  has shadow price 172.39 
+SH320 Demand limit is binding and  has shadow price 176.50 
+SH329 Demand limit is binding and  has shadow price 183.74 
+SH367 Demand limit is binding and  has shadow price 223.61 
+SH369 Demand limit is binding and  has shadow price 122.83 
+SH415 Demand limit is binding and  has shadow price 112.07 
+SH417 Demand limit is binding and  has shadow price 270.32 
+SH430 Demand limit is binding and  has shadow price 142.66 
+SH456 Demand limit is binding and  has shadow price 129.42 
+SH479 Demand limit is binding and  has shadow price 301.21 
+SH490 Demand limit is binding and  has shadow price 152.98 
+SH497 Demand limit is binding and  has shadow price 136.35 
+SH511 Demand limit is binding and  has shadow price 138.96 
+SH534 Demand limit is binding and  has shadow price 125.23 
+SH557 Demand limit is binding and  has shadow price 180.02 
+
+Non-Binding Constraint:
+
+Raw material budget constriant is not binding and has shadow price: 0.00
+
+Raw material 2 quantity constraint is not binding and has shadow price: 0.00
+Raw material 3 quantity constraint is not binding and has shadow price: 0.00
+Raw material 4 quantity constraint is not binding and has shadow price: 0.00
+Raw material 5 quantity constraint is not binding and has shadow price: 0.00
+Raw material 6 quantity constraint is not binding and has shadow price: 0.00
+Raw material 7 quantity constraint is not binding and has shadow price: 0.00
+Raw material 9 quantity constraint is not binding and has shadow price: 0.00
+Raw material 10 quantity constraint is not binding and has shadow price: 0.00
+Raw material 11 quantity constraint is not binding and has shadow price: 0.00
+Raw material 13 quantity constraint is not binding and has shadow price: 0.00
+Raw material 16 quantity constraint is not binding and has shadow price: 0.00
+Raw material 17 quantity constraint is not binding and has shadow price: 0.00
+Raw material 18 quantity constraint is not binding and has shadow price: 0.00
+Raw material 19 quantity constraint is not binding and has shadow price: 0.00
+Raw material 20 quantity constraint is not binding and has shadow price: 0.00
+Raw material 21 quantity constraint is not binding and has shadow price: 0.00
+Raw material 22 quantity constraint is not binding and has shadow price: 0.00
+Raw material 23 quantity constraint is not binding and has shadow price: 0.00
+Raw material 25 quantity constraint is not binding and has shadow price: 0.00
+Raw material 27 quantity constraint is not binding and has shadow price: 0.00
+Raw material 29 quantity constraint is not binding and has shadow price: 0.00
+Raw material 30 quantity constraint is not binding and has shadow price: 0.00
+Raw material 32 quantity constraint is not binding and has shadow price: 0.00
+Raw material 33 quantity constraint is not binding and has shadow price: 0.00
+Raw material 34 quantity constraint is not binding and has shadow price: 0.00
+Raw material 35 quantity constraint is not binding and has shadow price: 0.00
+Raw material 36 quantity constraint is not binding and has shadow price: 0.00
+Raw material 37 quantity constraint is not binding and has shadow price: 0.00
+Raw material 38 quantity constraint is not binding and has shadow price: 0.00
+Raw material 39 quantity constraint is not binding and has shadow price: 0.00
+Raw material 40 quantity constraint is not binding and has shadow price: 0.00
+Raw material 42 quantity constraint is not binding and has shadow price: 0.00
+Raw material 43 quantity constraint is not binding and has shadow price: 0.00
+Raw material 45 quantity constraint is not binding and has shadow price: 0.00
+Raw material 46 quantity constraint is not binding and has shadow price: 0.00
+Raw material 47 quantity constraint is not binding and has shadow price: 0.00
+Raw material 48 quantity constraint is not binding and has shadow price: 0.00
+Raw material 50 quantity constraint is not binding and has shadow price: 0.00
+Raw material 51 quantity constraint is not binding and has shadow price: 0.00
+Raw material 52 quantity constraint is not binding and has shadow price: 0.00
+Raw material 53 quantity constraint is not binding and has shadow price: 0.00
+Raw material 54 quantity constraint is not binding and has shadow price: 0.00
+Raw material 55 quantity constraint is not binding and has shadow price: 0.00
+Raw material 56 quantity constraint is not binding and has shadow price: 0.00
+Raw material 59 quantity constraint is not binding and has shadow price: 0.00
+Raw material 62 quantity constraint is not binding and has shadow price: 0.00
+Raw material 65 quantity constraint is not binding and has shadow price: 0.00
+Raw material 67 quantity constraint is not binding and has shadow price: 0.00
+Raw material 68 quantity constraint is not binding and has shadow price: 0.00
+Raw material 69 quantity constraint is not binding and has shadow price: 0.00
+Raw material 72 quantity constraint is not binding and has shadow price: 0.00
+Raw material 74 quantity constraint is not binding and has shadow price: 0.00
+Raw material 78 quantity constraint is not binding and has shadow price: 0.00
+Raw material 79 quantity constraint is not binding and has shadow price: 0.00
+Raw material 82 quantity constraint is not binding and has shadow price: 0.00
+Raw material 83 quantity constraint is not binding and has shadow price: 0.00
+Raw material 86 quantity constraint is not binding and has shadow price: 0.00
+Raw material 87 quantity constraint is not binding and has shadow price: 0.00
+Raw material 90 quantity constraint is not binding and has shadow price: 0.00
+Raw material 91 quantity constraint is not binding and has shadow price: 0.00
+Raw material 95 quantity constraint is not binding and has shadow price: 0.00
+Raw material 97 quantity constraint is not binding and has shadow price: 0.00
+Raw material 98 quantity constraint is not binding and has shadow price: 0.00
+Raw material 99 quantity constraint is not binding and has shadow price: 0.00
+Raw material 102 quantity constraint is not binding and has shadow price: 0.00
+Raw material 103 quantity constraint is not binding and has shadow price: 0.00
+Raw material 104 quantity constraint is not binding and has shadow price: 0.00
+Raw material 105 quantity constraint is not binding and has shadow price: 0.00
+Raw material 107 quantity constraint is not binding and has shadow price: 0.00
+Raw material 109 quantity constraint is not binding and has shadow price: 0.00
+Raw material 110 quantity constraint is not binding and has shadow price: 0.00
+Raw material 111 quantity constraint is not binding and has shadow price: 0.00
+Raw material 114 quantity constraint is not binding and has shadow price: 0.00
+Raw material 115 quantity constraint is not binding and has shadow price: 0.00
+Raw material 117 quantity constraint is not binding and has shadow price: 0.00
+Raw material 118 quantity constraint is not binding and has shadow price: 0.00
+Raw material 124 quantity constraint is not binding and has shadow price: 0.00
+Raw material 127 quantity constraint is not binding and has shadow price: 0.00
+Raw material 128 quantity constraint is not binding and has shadow price: 0.00
+Raw material 130 quantity constraint is not binding and has shadow price: 0.00
+Raw material 131 quantity constraint is not binding and has shadow price: 0.00
+Raw material 133 quantity constraint is not binding and has shadow price: 0.00
+Raw material 136 quantity constraint is not binding and has shadow price: 0.00
+Raw material 138 quantity constraint is not binding and has shadow price: 0.00
+Raw material 141 quantity constraint is not binding and has shadow price: 0.00
+Raw material 143 quantity constraint is not binding and has shadow price: 0.00
+Raw material 144 quantity constraint is not binding and has shadow price: 0.00
+Raw material 145 quantity constraint is not binding and has shadow price: 0.00
+Raw material 146 quantity constraint is not binding and has shadow price: 0.00
+Raw material 148 quantity constraint is not binding and has shadow price: 0.00
+Raw material 151 quantity constraint is not binding and has shadow price: 0.00
+Raw material 154 quantity constraint is not binding and has shadow price: 0.00
+Raw material 157 quantity constraint is not binding and has shadow price: 0.00
+Raw material 160 quantity constraint is not binding and has shadow price: 0.00
+Raw material 162 quantity constraint is not binding and has shadow price: 0.00
+Raw material 165 quantity constraint is not binding and has shadow price: 0.00
+
+Operation constraint for machine 1 is not binding and has price 0.00
+Operation constraint for machine 2 is not binding and has price 0.00
+Operation constraint for machine 3 is not binding and has price 0.00
+Operation constraint for machine 4 is not binding and has price 0.00
+Operation constraint for machine 5 is not binding and has price 0.00
+Operation constraint for machine 6 is not binding and has price 0.00
+Operation constraint for machine 7 is not binding and has price 0.00
+Operation constraint for machine 8 is not binding and has price 0.00
+Operation constraint for machine 9 is not binding and has price 0.00
+Operation constraint for machine 10 is not binding and has price 0.00
+Operation constraint for machine 11 is not binding and has price 0.00
+Operation constraint for machine 12 is not binding and has price 0.00
+Operation constraint for machine 13 is not binding and has price 0.00
+Operation constraint for machine 14 is not binding and has price 0.00
+Operation constraint for machine 15 is not binding and has price 0.00
+Operation constraint for machine 16 is not binding and has price 0.00
+Operation constraint for machine 17 is not binding and has price 0.00
+Operation constraint for machine 18 is not binding and has price 0.00
+Operation constraint for machine 19 is not binding and has price 0.00
+Operation constraint for machine 20 is not binding and has price 0.00
+Operation constraint for machine 21 is not binding and has price 0.00
+Operation constraint for machine 22 is not binding and has price 0.00
+Operation constraint for machine 23 is not binding and has price 0.00
+Operation constraint for machine 24 is not binding and has price 0.00
+Operation constraint for machine 25 is not binding and has price 0.00
+Operation constraint for machine 26 is not binding and has price 0.00
+Operation constraint for machine 27 is not binding and has price 0.00
+Operation constraint for machine 28 is not binding and has price 0.00
+Operation constraint for machine 29 is not binding and has price 0.00
+Operation constraint for machine 30 is not binding and has price 0.00
+Operation constraint for machine 31 is not binding and has price 0.00
+Operation constraint for machine 32 is not binding and has price 0.00
+Operation constraint for machine 33 is not binding and has price 0.00
+Operation constraint for machine 34 is not binding and has price 0.00
+Operation constraint for machine 35 is not binding and has price 0.00
+Operation constraint for machine 36 is not binding and has price 0.00
+Operation constraint for machine 37 is not binding and has price 0.00
+Operation constraint for machine 38 is not binding and has price 0.00
+Operation constraint for machine 39 is not binding and has price 0.00
+Operation constraint for machine 40 is not binding and has price 0.00
+Operation constraint for machine 41 is not binding and has price 0.00
+Operation constraint for machine 42 is not binding and has price 0.00
+Operation constraint for machine 43 is not binding and has price 0.00
+Operation constraint for machine 44 is not binding and has price 0.00
+Operation constraint for machine 45 is not binding and has price 0.00
+Operation constraint for machine 46 is not binding and has price 0.00
+Operation constraint for machine 47 is not binding and has price 0.00
+Operation constraint for machine 48 is not binding and has price 0.00
+Operation constraint for machine 49 is not binding and has price 0.00
+Operation constraint for machine 50 is not binding and has price 0.00
+Operation constraint for machine 51 is not binding and has price 0.00
+Operation constraint for machine 52 is not binding and has price 0.00
+Operation constraint for machine 53 is not binding and has price 0.00
+Operation constraint for machine 54 is not binding and has price 0.00
+Operation constraint for machine 55 is not binding and has price 0.00
+Operation constraint for machine 56 is not binding and has price 0.00
+Operation constraint for machine 57 is not binding and has price 0.00
+Operation constraint for machine 58 is not binding and has price 0.00
+Operation constraint for machine 59 is not binding and has price 0.00
+Operation constraint for machine 60 is not binding and has price 0.00
+Operation constraint for machine 61 is not binding and has price 0.00
+Operation constraint for machine 62 is not binding and has price 0.00
+Operation constraint for machine 63 is not binding and has price 0.00
+Operation constraint for machine 64 is not binding and has price 0.00
+Operation constraint for machine 65 is not binding and has price 0.00
+Operation constraint for machine 66 is not binding and has price 0.00
+Operation constraint for machine 67 is not binding and has price 0.00
+Operation constraint for machine 68 is not binding and has price 0.00
+Operation constraint for machine 69 is not binding and has price 0.00
+Operation constraint for machine 70 is not binding and has price 0.00
+Operation constraint for machine 71 is not binding and has price 0.00
+Operation constraint for machine 72 is not binding and has price 0.00
+
+SH001 Demand limit is not binding and has shadow price 0.00 
+SH002 Demand limit is not binding and has shadow price 0.00 
+SH003 Demand limit is not binding and has shadow price 0.00 
+SH004 Demand limit is not binding and has shadow price 0.00 
+SH005 Demand limit is not binding and has shadow price 0.00 
+SH006 Demand limit is not binding and has shadow price 0.00 
+SH007 Demand limit is not binding and has shadow price 0.00 
+SH008 Demand limit is not binding and has shadow price 0.00 
+SH009 Demand limit is not binding and has shadow price 0.00 
+SH010 Demand limit is not binding and has shadow price 0.00 
+SH011 Demand limit is not binding and has shadow price 0.00 
+SH012 Demand limit is not binding and has shadow price 0.00 
+SH013 Demand limit is not binding and has shadow price 0.00 
+SH014 Demand limit is not binding and has shadow price 0.00 
+SH015 Demand limit is not binding and has shadow price 0.00 
+SH016 Demand limit is not binding and has shadow price 0.00 
+SH017 Demand limit is not binding and has shadow price 0.00 
+SH018 Demand limit is not binding and has shadow price 0.00 
+SH019 Demand limit is not binding and has shadow price 0.00 
+SH020 Demand limit is not binding and has shadow price 0.00 
+SH021 Demand limit is not binding and has shadow price 0.00 
+SH022 Demand limit is not binding and has shadow price 0.00 
+SH023 Demand limit is not binding and has shadow price 0.00 
+SH024 Demand limit is not binding and has shadow price 0.00 
+SH026 Demand limit is not binding and has shadow price 0.00 
+SH028 Demand limit is not binding and has shadow price 0.00 
+SH029 Demand limit is not binding and has shadow price 0.00 
+SH030 Demand limit is not binding and has shadow price 0.00 
+SH031 Demand limit is not binding and has shadow price 0.00 
+SH032 Demand limit is not binding and has shadow price 0.00 
+SH033 Demand limit is not binding and has shadow price 0.00 
+SH034 Demand limit is not binding and has shadow price 165.08 
+SH035 Demand limit is not binding and has shadow price 0.00 
+SH036 Demand limit is not binding and has shadow price 0.00 
+SH037 Demand limit is not binding and has shadow price 0.00 
+SH038 Demand limit is not binding and has shadow price 262.28 
+SH039 Demand limit is not binding and has shadow price 0.00 
+SH040 Demand limit is not binding and has shadow price 0.00 
+SH041 Demand limit is not binding and has shadow price 0.00 
+SH042 Demand limit is not binding and has shadow price 0.00 
+SH043 Demand limit is not binding and has shadow price 0.00 
+SH045 Demand limit is not binding and has shadow price 0.00 
+SH046 Demand limit is not binding and has shadow price 0.00 
+SH047 Demand limit is not binding and has shadow price 278.05 
+SH048 Demand limit is not binding and has shadow price 0.00 
+SH049 Demand limit is not binding and has shadow price 0.00 
+SH050 Demand limit is not binding and has shadow price 0.00 
+SH051 Demand limit is not binding and has shadow price 0.00 
+SH052 Demand limit is not binding and has shadow price 0.00 
+SH053 Demand limit is not binding and has shadow price 0.00 
+SH054 Demand limit is not binding and has shadow price 0.00 
+SH055 Demand limit is not binding and has shadow price 0.00 
+SH056 Demand limit is not binding and has shadow price 0.00 
+SH057 Demand limit is not binding and has shadow price 0.00 
+SH059 Demand limit is not binding and has shadow price 0.00 
+SH060 Demand limit is not binding and has shadow price 0.00 
+SH061 Demand limit is not binding and has shadow price 0.00 
+SH064 Demand limit is not binding and has shadow price 0.00 
+SH065 Demand limit is not binding and has shadow price 0.00 
+SH066 Demand limit is not binding and has shadow price 0.00 
+SH067 Demand limit is not binding and has shadow price 0.00 
+SH068 Demand limit is not binding and has shadow price 0.00 
+SH069 Demand limit is not binding and has shadow price 0.00 
+SH070 Demand limit is not binding and has shadow price 0.00 
+SH071 Demand limit is not binding and has shadow price 0.00 
+SH072 Demand limit is not binding and has shadow price 0.00 
+SH073 Demand limit is not binding and has shadow price 0.00 
+SH074 Demand limit is not binding and has shadow price 0.00 
+SH075 Demand limit is not binding and has shadow price 0.00 
+SH076 Demand limit is not binding and has shadow price 0.00 
+SH077 Demand limit is not binding and has shadow price 0.00 
+SH078 Demand limit is not binding and has shadow price 142.86 
+SH079 Demand limit is not binding and has shadow price 0.00 
+SH080 Demand limit is not binding and has shadow price 0.00 
+SH081 Demand limit is not binding and has shadow price 0.00 
+SH082 Demand limit is not binding and has shadow price 0.00 
+SH083 Demand limit is not binding and has shadow price 0.00 
+SH084 Demand limit is not binding and has shadow price 0.00 
+SH085 Demand limit is not binding and has shadow price 0.00 
+SH086 Demand limit is not binding and has shadow price 0.00 
+SH088 Demand limit is not binding and has shadow price 0.00 
+SH089 Demand limit is not binding and has shadow price 0.00 
+SH090 Demand limit is not binding and has shadow price 128.94 
+SH091 Demand limit is not binding and has shadow price 0.00 
+SH092 Demand limit is not binding and has shadow price 0.00 
+SH093 Demand limit is not binding and has shadow price 0.00 
+SH094 Demand limit is not binding and has shadow price 0.00 
+SH096 Demand limit is not binding and has shadow price 223.59 
+SH097 Demand limit is not binding and has shadow price 0.00 
+SH098 Demand limit is not binding and has shadow price 0.00 
+SH099 Demand limit is not binding and has shadow price 0.00 
+SH100 Demand limit is not binding and has shadow price 0.00 
+SH101 Demand limit is not binding and has shadow price 0.00 
+SH102 Demand limit is not binding and has shadow price 0.00 
+SH103 Demand limit is not binding and has shadow price 0.00 
+SH104 Demand limit is not binding and has shadow price 0.00 
+SH106 Demand limit is not binding and has shadow price 0.00 
+SH107 Demand limit is not binding and has shadow price 0.00 
+SH108 Demand limit is not binding and has shadow price 0.00 
+SH109 Demand limit is not binding and has shadow price 0.00 
+SH110 Demand limit is not binding and has shadow price 219.01 
+SH111 Demand limit is not binding and has shadow price 0.00 
+SH112 Demand limit is not binding and has shadow price 0.00 
+SH114 Demand limit is not binding and has shadow price 0.00 
+SH115 Demand limit is not binding and has shadow price 0.00 
+SH116 Demand limit is not binding and has shadow price 0.00 
+SH117 Demand limit is not binding and has shadow price 0.00 
+SH118 Demand limit is not binding and has shadow price 0.00 
+SH119 Demand limit is not binding and has shadow price 0.00 
+SH120 Demand limit is not binding and has shadow price 0.00 
+SH122 Demand limit is not binding and has shadow price 0.00 
+SH123 Demand limit is not binding and has shadow price 0.00 
+SH124 Demand limit is not binding and has shadow price 0.00 
+SH125 Demand limit is not binding and has shadow price 0.00 
+SH126 Demand limit is not binding and has shadow price 0.00 
+SH127 Demand limit is not binding and has shadow price 0.00 
+SH128 Demand limit is not binding and has shadow price 0.00 
+SH129 Demand limit is not binding and has shadow price 0.00 
+SH130 Demand limit is not binding and has shadow price 0.00 
+SH131 Demand limit is not binding and has shadow price 0.00 
+SH132 Demand limit is not binding and has shadow price 0.00 
+SH133 Demand limit is not binding and has shadow price 0.00 
+SH135 Demand limit is not binding and has shadow price 0.00 
+SH136 Demand limit is not binding and has shadow price 0.00 
+SH137 Demand limit is not binding and has shadow price 0.00 
+SH138 Demand limit is not binding and has shadow price 0.00 
+SH139 Demand limit is not binding and has shadow price 0.00 
+SH140 Demand limit is not binding and has shadow price 0.00 
+SH141 Demand limit is not binding and has shadow price 0.00 
+SH142 Demand limit is not binding and has shadow price 0.00 
+SH143 Demand limit is not binding and has shadow price 0.00 
+SH144 Demand limit is not binding and has shadow price 0.00 
+SH145 Demand limit is not binding and has shadow price 0.00 
+SH146 Demand limit is not binding and has shadow price 142.33 
+SH147 Demand limit is not binding and has shadow price 0.00 
+SH148 Demand limit is not binding and has shadow price 0.00 
+SH149 Demand limit is not binding and has shadow price 0.00 
+SH150 Demand limit is not binding and has shadow price 0.00 
+SH151 Demand limit is not binding and has shadow price 0.00 
+SH152 Demand limit is not binding and has shadow price 0.00 
+SH153 Demand limit is not binding and has shadow price 0.00 
+SH154 Demand limit is not binding and has shadow price 229.18 
+SH155 Demand limit is not binding and has shadow price 0.00 
+SH156 Demand limit is not binding and has shadow price 0.00 
+SH157 Demand limit is not binding and has shadow price 0.00 
+SH158 Demand limit is not binding and has shadow price 0.00 
+SH159 Demand limit is not binding and has shadow price 0.00 
+SH160 Demand limit is not binding and has shadow price 0.00 
+SH161 Demand limit is not binding and has shadow price 0.00 
+SH162 Demand limit is not binding and has shadow price 0.00 
+SH163 Demand limit is not binding and has shadow price 0.00 
+SH164 Demand limit is not binding and has shadow price 0.00 
+SH166 Demand limit is not binding and has shadow price 0.00 
+SH167 Demand limit is not binding and has shadow price 0.00 
+SH168 Demand limit is not binding and has shadow price 0.00 
+SH169 Demand limit is not binding and has shadow price 0.00 
+SH170 Demand limit is not binding and has shadow price 0.00 
+SH171 Demand limit is not binding and has shadow price 0.00 
+SH172 Demand limit is not binding and has shadow price 0.00 
+SH173 Demand limit is not binding and has shadow price 0.00 
+SH174 Demand limit is not binding and has shadow price 0.00 
+SH175 Demand limit is not binding and has shadow price 0.00 
+SH177 Demand limit is not binding and has shadow price 0.00 
+SH178 Demand limit is not binding and has shadow price 0.00 
+SH179 Demand limit is not binding and has shadow price 0.00 
+SH180 Demand limit is not binding and has shadow price 0.00 
+SH181 Demand limit is not binding and has shadow price 0.00 
+SH182 Demand limit is not binding and has shadow price 0.00 
+SH183 Demand limit is not binding and has shadow price 0.00 
+SH184 Demand limit is not binding and has shadow price 0.00 
+SH185 Demand limit is not binding and has shadow price 0.00 
+SH186 Demand limit is not binding and has shadow price 0.00 
+SH187 Demand limit is not binding and has shadow price 0.00 
+SH188 Demand limit is not binding and has shadow price 0.00 
+SH189 Demand limit is not binding and has shadow price 0.00 
+SH190 Demand limit is not binding and has shadow price 0.00 
+SH191 Demand limit is not binding and has shadow price 0.00 
+SH192 Demand limit is not binding and has shadow price 0.00 
+SH193 Demand limit is not binding and has shadow price 0.00 
+SH194 Demand limit is not binding and has shadow price 0.00 
+SH195 Demand limit is not binding and has shadow price 0.00 
+SH196 Demand limit is not binding and has shadow price 0.00 
+SH197 Demand limit is not binding and has shadow price 0.00 
+SH198 Demand limit is not binding and has shadow price 0.00 
+SH199 Demand limit is not binding and has shadow price 0.00 
+SH200 Demand limit is not binding and has shadow price 0.00 
+SH202 Demand limit is not binding and has shadow price 0.00 
+SH203 Demand limit is not binding and has shadow price 142.08 
+SH204 Demand limit is not binding and has shadow price 0.00 
+SH205 Demand limit is not binding and has shadow price 0.00 
+SH206 Demand limit is not binding and has shadow price 0.00 
+SH207 Demand limit is not binding and has shadow price 0.00 
+SH208 Demand limit is not binding and has shadow price 0.00 
+SH209 Demand limit is not binding and has shadow price 0.00 
+SH210 Demand limit is not binding and has shadow price 0.00 
+SH211 Demand limit is not binding and has shadow price 0.00 
+SH212 Demand limit is not binding and has shadow price 0.00 
+SH213 Demand limit is not binding and has shadow price 0.00 
+SH214 Demand limit is not binding and has shadow price 0.00 
+SH215 Demand limit is not binding and has shadow price 0.00 
+SH216 Demand limit is not binding and has shadow price 0.00 
+SH217 Demand limit is not binding and has shadow price 0.00 
+SH218 Demand limit is not binding and has shadow price 0.00 
+SH219 Demand limit is not binding and has shadow price 0.00 
+SH220 Demand limit is not binding and has shadow price 0.00 
+SH222 Demand limit is not binding and has shadow price 0.00 
+SH223 Demand limit is not binding and has shadow price 160.14 
+SH224 Demand limit is not binding and has shadow price 227.00 
+SH225 Demand limit is not binding and has shadow price 0.00 
+SH226 Demand limit is not binding and has shadow price 0.00 
+SH227 Demand limit is not binding and has shadow price 0.00 
+SH228 Demand limit is not binding and has shadow price 0.00 
+SH229 Demand limit is not binding and has shadow price 0.00 
+SH230 Demand limit is not binding and has shadow price 0.00 
+SH231 Demand limit is not binding and has shadow price 0.00 
+SH232 Demand limit is not binding and has shadow price 0.00 
+SH233 Demand limit is not binding and has shadow price 221.66 
+SH234 Demand limit is not binding and has shadow price 245.54 
+SH235 Demand limit is not binding and has shadow price 0.00 
+SH236 Demand limit is not binding and has shadow price 0.00 
+SH237 Demand limit is not binding and has shadow price 0.00 
+SH238 Demand limit is not binding and has shadow price 0.00 
+SH239 Demand limit is not binding and has shadow price 0.00 
+SH240 Demand limit is not binding and has shadow price 0.00 
+SH241 Demand limit is not binding and has shadow price 220.63 
+SH242 Demand limit is not binding and has shadow price 0.00 
+SH243 Demand limit is not binding and has shadow price 0.00 
+SH244 Demand limit is not binding and has shadow price 0.00 
+SH245 Demand limit is not binding and has shadow price 0.00 
+SH246 Demand limit is not binding and has shadow price 0.00 
+SH248 Demand limit is not binding and has shadow price 0.00 
+SH249 Demand limit is not binding and has shadow price 0.00 
+SH250 Demand limit is not binding and has shadow price 0.00 
+SH251 Demand limit is not binding and has shadow price 0.00 
+SH252 Demand limit is not binding and has shadow price 0.00 
+SH253 Demand limit is not binding and has shadow price 222.50 
+SH254 Demand limit is not binding and has shadow price 0.00 
+SH255 Demand limit is not binding and has shadow price 0.00 
+SH257 Demand limit is not binding and has shadow price 0.00 
+SH258 Demand limit is not binding and has shadow price 0.00 
+SH259 Demand limit is not binding and has shadow price 0.00 
+SH260 Demand limit is not binding and has shadow price 0.00 
+SH261 Demand limit is not binding and has shadow price 161.72 
+SH262 Demand limit is not binding and has shadow price 198.09 
+SH263 Demand limit is not binding and has shadow price 0.00 
+SH264 Demand limit is not binding and has shadow price 0.00 
+SH265 Demand limit is not binding and has shadow price 184.00 
+SH266 Demand limit is not binding and has shadow price 0.00 
+SH267 Demand limit is not binding and has shadow price 0.00 
+SH268 Demand limit is not binding and has shadow price 0.00 
+SH269 Demand limit is not binding and has shadow price 0.00 
+SH270 Demand limit is not binding and has shadow price 0.00 
+SH271 Demand limit is not binding and has shadow price 0.00 
+SH272 Demand limit is not binding and has shadow price 0.00 
+SH273 Demand limit is not binding and has shadow price 0.00 
+SH274 Demand limit is not binding and has shadow price 0.00 
+SH275 Demand limit is not binding and has shadow price 0.00 
+SH276 Demand limit is not binding and has shadow price 0.00 
+SH277 Demand limit is not binding and has shadow price 0.00 
+SH278 Demand limit is not binding and has shadow price 0.00 
+SH279 Demand limit is not binding and has shadow price 0.00 
+SH280 Demand limit is not binding and has shadow price 0.00 
+SH281 Demand limit is not binding and has shadow price 0.00 
+SH282 Demand limit is not binding and has shadow price 190.58 
+SH283 Demand limit is not binding and has shadow price 0.00 
+SH284 Demand limit is not binding and has shadow price 0.00 
+SH285 Demand limit is not binding and has shadow price 0.00 
+SH286 Demand limit is not binding and has shadow price 0.00 
+SH288 Demand limit is not binding and has shadow price 0.00 
+SH289 Demand limit is not binding and has shadow price 0.00 
+SH290 Demand limit is not binding and has shadow price 0.00 
+SH291 Demand limit is not binding and has shadow price 0.00 
+SH292 Demand limit is not binding and has shadow price 0.00 
+SH293 Demand limit is not binding and has shadow price 0.00 
+SH294 Demand limit is not binding and has shadow price 0.00 
+SH295 Demand limit is not binding and has shadow price 0.00 
+SH296 Demand limit is not binding and has shadow price 0.00 
+SH297 Demand limit is not binding and has shadow price 0.00 
+SH298 Demand limit is not binding and has shadow price 0.00 
+SH299 Demand limit is not binding and has shadow price 0.00 
+SH300 Demand limit is not binding and has shadow price 0.00 
+SH301 Demand limit is not binding and has shadow price 0.00 
+SH302 Demand limit is not binding and has shadow price 0.00 
+SH303 Demand limit is not binding and has shadow price 0.00 
+SH304 Demand limit is not binding and has shadow price 0.00 
+SH305 Demand limit is not binding and has shadow price 0.00 
+SH306 Demand limit is not binding and has shadow price 0.00 
+SH307 Demand limit is not binding and has shadow price 0.00 
+SH308 Demand limit is not binding and has shadow price 0.00 
+SH309 Demand limit is not binding and has shadow price 0.00 
+SH310 Demand limit is not binding and has shadow price 0.00 
+SH311 Demand limit is not binding and has shadow price 0.00 
+SH312 Demand limit is not binding and has shadow price 0.00 
+SH313 Demand limit is not binding and has shadow price 0.00 
+SH314 Demand limit is not binding and has shadow price 151.89 
+SH315 Demand limit is not binding and has shadow price 0.00 
+SH316 Demand limit is not binding and has shadow price 0.00 
+SH317 Demand limit is not binding and has shadow price 0.00 
+SH318 Demand limit is not binding and has shadow price 0.00 
+SH319 Demand limit is not binding and has shadow price 0.00 
+SH321 Demand limit is not binding and has shadow price 0.00 
+SH322 Demand limit is not binding and has shadow price 0.00 
+SH323 Demand limit is not binding and has shadow price 0.00 
+SH324 Demand limit is not binding and has shadow price 0.00 
+SH325 Demand limit is not binding and has shadow price 73.16 
+SH326 Demand limit is not binding and has shadow price 0.00 
+SH327 Demand limit is not binding and has shadow price 0.00 
+SH328 Demand limit is not binding and has shadow price 0.00 
+SH330 Demand limit is not binding and has shadow price 0.00 
+SH331 Demand limit is not binding and has shadow price 0.00 
+SH332 Demand limit is not binding and has shadow price 0.00 
+SH333 Demand limit is not binding and has shadow price 0.00 
+SH334 Demand limit is not binding and has shadow price 135.41 
+SH335 Demand limit is not binding and has shadow price 0.00 
+SH336 Demand limit is not binding and has shadow price 0.00 
+SH337 Demand limit is not binding and has shadow price 0.00 
+SH338 Demand limit is not binding and has shadow price 0.00 
+SH339 Demand limit is not binding and has shadow price 0.00 
+SH340 Demand limit is not binding and has shadow price 0.00 
+SH341 Demand limit is not binding and has shadow price 0.00 
+SH342 Demand limit is not binding and has shadow price 0.00 
+SH343 Demand limit is not binding and has shadow price 0.00 
+SH344 Demand limit is not binding and has shadow price 0.00 
+SH345 Demand limit is not binding and has shadow price 0.00 
+SH346 Demand limit is not binding and has shadow price 0.00 
+SH347 Demand limit is not binding and has shadow price 0.00 
+SH348 Demand limit is not binding and has shadow price 0.00 
+SH349 Demand limit is not binding and has shadow price 0.00 
+SH350 Demand limit is not binding and has shadow price 0.00 
+SH351 Demand limit is not binding and has shadow price 0.00 
+SH352 Demand limit is not binding and has shadow price 173.00 
+SH353 Demand limit is not binding and has shadow price 0.00 
+SH354 Demand limit is not binding and has shadow price 0.00 
+SH355 Demand limit is not binding and has shadow price 0.00 
+SH356 Demand limit is not binding and has shadow price 0.00 
+SH357 Demand limit is not binding and has shadow price 0.00 
+SH358 Demand limit is not binding and has shadow price 0.00 
+SH359 Demand limit is not binding and has shadow price 0.00 
+SH360 Demand limit is not binding and has shadow price 0.00 
+SH361 Demand limit is not binding and has shadow price 0.00 
+SH362 Demand limit is not binding and has shadow price 0.00 
+SH363 Demand limit is not binding and has shadow price 0.00 
+SH364 Demand limit is not binding and has shadow price 0.00 
+SH365 Demand limit is not binding and has shadow price 0.00 
+SH366 Demand limit is not binding and has shadow price 0.00 
+SH368 Demand limit is not binding and has shadow price 0.00 
+SH370 Demand limit is not binding and has shadow price 0.00 
+SH371 Demand limit is not binding and has shadow price 0.00 
+SH372 Demand limit is not binding and has shadow price 0.00 
+SH373 Demand limit is not binding and has shadow price 122.46 
+SH374 Demand limit is not binding and has shadow price 0.00 
+SH375 Demand limit is not binding and has shadow price 0.00 
+SH376 Demand limit is not binding and has shadow price 0.00 
+SH377 Demand limit is not binding and has shadow price 0.00 
+SH378 Demand limit is not binding and has shadow price 111.04 
+SH379 Demand limit is not binding and has shadow price 0.00 
+SH380 Demand limit is not binding and has shadow price 0.00 
+SH381 Demand limit is not binding and has shadow price 0.00 
+SH382 Demand limit is not binding and has shadow price 0.00 
+SH383 Demand limit is not binding and has shadow price 0.00 
+SH384 Demand limit is not binding and has shadow price 184.23 
+SH385 Demand limit is not binding and has shadow price 0.00 
+SH386 Demand limit is not binding and has shadow price 0.00 
+SH387 Demand limit is not binding and has shadow price 0.00 
+SH388 Demand limit is not binding and has shadow price 0.00 
+SH389 Demand limit is not binding and has shadow price 0.00 
+SH390 Demand limit is not binding and has shadow price 0.00 
+SH391 Demand limit is not binding and has shadow price 0.00 
+SH392 Demand limit is not binding and has shadow price 0.00 
+SH393 Demand limit is not binding and has shadow price 0.00 
+SH394 Demand limit is not binding and has shadow price 0.00 
+SH395 Demand limit is not binding and has shadow price 0.00 
+SH396 Demand limit is not binding and has shadow price 0.00 
+SH397 Demand limit is not binding and has shadow price 0.00 
+SH398 Demand limit is not binding and has shadow price 0.00 
+SH399 Demand limit is not binding and has shadow price 0.00 
+SH400 Demand limit is not binding and has shadow price 0.00 
+SH401 Demand limit is not binding and has shadow price 0.00 
+SH402 Demand limit is not binding and has shadow price 0.00 
+SH403 Demand limit is not binding and has shadow price 0.00 
+SH404 Demand limit is not binding and has shadow price 0.00 
+SH405 Demand limit is not binding and has shadow price 0.00 
+SH406 Demand limit is not binding and has shadow price 0.00 
+SH407 Demand limit is not binding and has shadow price 0.00 
+SH408 Demand limit is not binding and has shadow price 0.00 
+SH409 Demand limit is not binding and has shadow price 0.00 
+SH410 Demand limit is not binding and has shadow price 0.00 
+SH411 Demand limit is not binding and has shadow price 0.00 
+SH412 Demand limit is not binding and has shadow price 0.00 
+SH413 Demand limit is not binding and has shadow price 0.00 
+SH414 Demand limit is not binding and has shadow price 0.00 
+SH416 Demand limit is not binding and has shadow price 0.00 
+SH418 Demand limit is not binding and has shadow price 0.00 
+SH419 Demand limit is not binding and has shadow price 0.00 
+SH420 Demand limit is not binding and has shadow price 0.00 
+SH421 Demand limit is not binding and has shadow price 197.77 
+SH422 Demand limit is not binding and has shadow price 0.00 
+SH423 Demand limit is not binding and has shadow price 0.00 
+SH424 Demand limit is not binding and has shadow price 0.00 
+SH425 Demand limit is not binding and has shadow price 219.89 
+SH426 Demand limit is not binding and has shadow price 0.00 
+SH427 Demand limit is not binding and has shadow price 0.00 
+SH428 Demand limit is not binding and has shadow price 0.00 
+SH429 Demand limit is not binding and has shadow price 0.00 
+SH431 Demand limit is not binding and has shadow price 0.00 
+SH432 Demand limit is not binding and has shadow price 0.00 
+SH433 Demand limit is not binding and has shadow price 0.00 
+SH434 Demand limit is not binding and has shadow price 0.00 
+SH435 Demand limit is not binding and has shadow price 0.00 
+SH436 Demand limit is not binding and has shadow price 0.00 
+SH437 Demand limit is not binding and has shadow price 0.00 
+SH438 Demand limit is not binding and has shadow price 0.00 
+SH439 Demand limit is not binding and has shadow price 0.00 
+SH440 Demand limit is not binding and has shadow price 0.00 
+SH441 Demand limit is not binding and has shadow price 0.00 
+SH442 Demand limit is not binding and has shadow price 0.00 
+SH443 Demand limit is not binding and has shadow price 0.00 
+SH444 Demand limit is not binding and has shadow price 0.00 
+SH445 Demand limit is not binding and has shadow price 0.00 
+SH446 Demand limit is not binding and has shadow price 0.00 
+SH447 Demand limit is not binding and has shadow price 0.00 
+SH448 Demand limit is not binding and has shadow price 0.00 
+SH449 Demand limit is not binding and has shadow price 0.00 
+SH450 Demand limit is not binding and has shadow price 0.00 
+SH451 Demand limit is not binding and has shadow price 0.00 
+SH452 Demand limit is not binding and has shadow price 0.00 
+SH453 Demand limit is not binding and has shadow price 0.00 
+SH454 Demand limit is not binding and has shadow price 0.00 
+SH455 Demand limit is not binding and has shadow price 0.00 
+SH457 Demand limit is not binding and has shadow price 0.00 
+SH458 Demand limit is not binding and has shadow price 0.00 
+SH459 Demand limit is not binding and has shadow price 0.00 
+SH460 Demand limit is not binding and has shadow price 0.00 
+SH461 Demand limit is not binding and has shadow price 0.00 
+SH462 Demand limit is not binding and has shadow price 0.00 
+SH463 Demand limit is not binding and has shadow price 0.00 
+SH464 Demand limit is not binding and has shadow price 0.00 
+SH465 Demand limit is not binding and has shadow price 0.00 
+SH466 Demand limit is not binding and has shadow price 0.00 
+SH467 Demand limit is not binding and has shadow price 0.00 
+SH468 Demand limit is not binding and has shadow price 0.00 
+SH469 Demand limit is not binding and has shadow price 0.00 
+SH470 Demand limit is not binding and has shadow price 0.00 
+SH471 Demand limit is not binding and has shadow price 0.00 
+SH472 Demand limit is not binding and has shadow price 0.00 
+SH473 Demand limit is not binding and has shadow price 0.00 
+SH474 Demand limit is not binding and has shadow price 0.00 
+SH475 Demand limit is not binding and has shadow price 0.00 
+SH476 Demand limit is not binding and has shadow price 0.00 
+SH477 Demand limit is not binding and has shadow price 121.84 
+SH478 Demand limit is not binding and has shadow price 0.00 
+SH480 Demand limit is not binding and has shadow price 0.00 
+SH481 Demand limit is not binding and has shadow price 0.00 
+SH482 Demand limit is not binding and has shadow price 0.00 
+SH483 Demand limit is not binding and has shadow price 165.58 
+SH484 Demand limit is not binding and has shadow price 0.00 
+SH485 Demand limit is not binding and has shadow price 0.00 
+SH486 Demand limit is not binding and has shadow price 0.00 
+SH487 Demand limit is not binding and has shadow price 0.00 
+SH488 Demand limit is not binding and has shadow price 0.00 
+SH489 Demand limit is not binding and has shadow price 0.00 
+SH491 Demand limit is not binding and has shadow price 0.00 
+SH492 Demand limit is not binding and has shadow price 0.00 
+SH493 Demand limit is not binding and has shadow price 0.00 
+SH494 Demand limit is not binding and has shadow price 0.00 
+SH495 Demand limit is not binding and has shadow price 0.00 
+SH496 Demand limit is not binding and has shadow price 0.00 
+SH498 Demand limit is not binding and has shadow price 0.00 
+SH499 Demand limit is not binding and has shadow price 0.00 
+SH500 Demand limit is not binding and has shadow price 0.00 
+SH501 Demand limit is not binding and has shadow price 174.63 
+SH502 Demand limit is not binding and has shadow price 0.00 
+SH503 Demand limit is not binding and has shadow price 0.00 
+SH504 Demand limit is not binding and has shadow price 0.00 
+SH505 Demand limit is not binding and has shadow price 0.00 
+SH506 Demand limit is not binding and has shadow price 0.00 
+SH507 Demand limit is not binding and has shadow price 0.00 
+SH508 Demand limit is not binding and has shadow price 0.00 
+SH509 Demand limit is not binding and has shadow price 0.00 
+SH510 Demand limit is not binding and has shadow price 0.00 
+SH512 Demand limit is not binding and has shadow price 0.00 
+SH513 Demand limit is not binding and has shadow price 0.00 
+SH514 Demand limit is not binding and has shadow price 0.00 
+SH515 Demand limit is not binding and has shadow price 0.00 
+SH516 Demand limit is not binding and has shadow price 143.23 
+SH517 Demand limit is not binding and has shadow price 0.00 
+SH518 Demand limit is not binding and has shadow price 0.00 
+SH519 Demand limit is not binding and has shadow price 0.00 
+SH520 Demand limit is not binding and has shadow price 0.00 
+SH521 Demand limit is not binding and has shadow price 0.00 
+SH522 Demand limit is not binding and has shadow price 0.00 
+SH523 Demand limit is not binding and has shadow price 0.00 
+SH524 Demand limit is not binding and has shadow price 0.00 
+SH525 Demand limit is not binding and has shadow price 0.00 
+SH526 Demand limit is not binding and has shadow price 0.00 
+SH527 Demand limit is not binding and has shadow price 0.00 
+SH528 Demand limit is not binding and has shadow price 0.00 
+SH529 Demand limit is not binding and has shadow price 0.00 
+SH530 Demand limit is not binding and has shadow price 0.00 
+SH531 Demand limit is not binding and has shadow price 0.00 
+SH532 Demand limit is not binding and has shadow price 0.00 
+SH533 Demand limit is not binding and has shadow price 0.00 
+SH535 Demand limit is not binding and has shadow price 182.57 
+SH536 Demand limit is not binding and has shadow price 0.00 
+SH537 Demand limit is not binding and has shadow price 0.00 
+SH538 Demand limit is not binding and has shadow price 0.00 
+SH539 Demand limit is not binding and has shadow price 0.00 
+SH540 Demand limit is not binding and has shadow price 0.00 
+SH541 Demand limit is not binding and has shadow price 0.00 
+SH542 Demand limit is not binding and has shadow price 0.00 
+SH543 Demand limit is not binding and has shadow price 0.00 
+SH544 Demand limit is not binding and has shadow price 0.00 
+SH545 Demand limit is not binding and has shadow price 0.00 
+SH546 Demand limit is not binding and has shadow price 0.00 
+SH547 Demand limit is not binding and has shadow price 0.00 
+SH548 Demand limit is not binding and has shadow price 0.00 
+SH549 Demand limit is not binding and has shadow price 0.00 
+SH550 Demand limit is not binding and has shadow price 0.00 
+SH551 Demand limit is not binding and has shadow price 0.00 
+SH552 Demand limit is not binding and has shadow price 0.00 
+SH553 Demand limit is not binding and has shadow price 0.00 
+SH554 Demand limit is not binding and has shadow price 0.00 
+SH555 Demand limit is not binding and has shadow price 0.00 
+SH556 Demand limit is not binding and has shadow price 122.00 
